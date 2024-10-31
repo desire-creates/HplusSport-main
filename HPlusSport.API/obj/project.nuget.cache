@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V41P4AlXFk5TS5X2+dFVz+gqGBwSYSfu/ixIG/83X78wmWq28JkZvg88bkVe+U+hVTz5Et3Dp2vcZrGBCgKYCw==",
+  "success": true,
+  "projectFilePath": "/home/desire/Documents/NOTES/300 LEVEL SECOND SEMESTER/COM313/HplusSport-main/HPlusSport.API/HPlusSport.API.csproj",
+  "expectedPackageFiles": [
+    "/home/desire/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/desire/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/desire/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/desire/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/desire/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/desire/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
